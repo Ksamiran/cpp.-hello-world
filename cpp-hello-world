@@ -5,5 +5,7 @@ int main()
    cout<<"HELLO WORLD\n";
    cout<<"WELCOME TO C++ PROGRAMMING LANGUAGE\n";
    cout<<"C++ is The Best PROGRAMMING LANGUAGE\n";
+   cout<<"ALL THE BEST\n";
+
    return 0;
 }
