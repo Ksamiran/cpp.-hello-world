@@ -8,6 +8,7 @@ int main()
    cout<<"ALL THE BEST\n";
    cout<<"Enter your Name : \n";
    cout<<"Enter Your Mobile No. : \n";
+   cout<<"Enter Your E-mail Address\n";
 
    return 0;
 }
